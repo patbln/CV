@@ -12,6 +12,10 @@
 * 2017-2018 : Création et membre d'une mini-entreprise, Hacker-Pie
 * Juillet - Août 2021 : CDD étudiant dans l'entreprise Graindorge
 
+## Compétences 
+* Bonne maîtrise du logiciel Adobe After Effects
+* Maîtrise du logiciel Adobe Premiere Pro
+
 ## Certifications
 * 2018 : Diplôme National du brevet des collèges
 * 2018 : PSC1
